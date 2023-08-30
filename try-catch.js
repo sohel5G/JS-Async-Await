@@ -26,15 +26,6 @@ function checkAge() {
 
 
 
-const ageBtn = document.getElementById('btn-sub');
-
-
-
-
-
-
-
-
 
 
 

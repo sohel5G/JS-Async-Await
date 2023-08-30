@@ -51,3 +51,20 @@ try{
 
 
 
+
+
+
+
+
+JS event loop নিয়ে যদি একটু ও confusion থেকে থাকে, নিচের লিঙ্ক দুইটার কোনোটাতে চলে যান 
+
+Link-1: http://latentflip.com/loupe/
+Link-2: https://www.jsv9000.app/
+
+
+
+
+
+
+
+
