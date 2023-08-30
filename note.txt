@@ -22,5 +22,32 @@ getData
 
 
 
+const setIntervalId = setInterval(() => {
+    console.log( varName++ );
+}, 1000);
+
+const settimeId = setTimeout(() => {
+    clearInterval(setIntervalId) 
+}, 5000);
+
+clearTimeout(settimeId);
+
+
+
+
+
+
+
+
+
+
+try{
+
+}catch(error){
+
+}finally{
+
+}
+
 
 
